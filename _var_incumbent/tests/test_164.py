@@ -74,3 +74,4 @@ def test_build_report_respects_stop_flag(tmp_path):
 
     with pytest.raises(RuntimeError, match="STOP flag present"):
         build_report([], today=date(2026, 6, 10), stop_flag=stop_flag)
+
