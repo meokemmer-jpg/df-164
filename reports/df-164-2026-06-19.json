@@ -1,0 +1,21 @@
+{
+  "df_id": "164",
+  "k17_pre_action_verification": {
+    "env_tag": "local",
+    "missing_anchors": [],
+    "ok": true
+  },
+  "report_slug": "df-164",
+  "status": "ok",
+  "tracker_output": {
+    "conversion_rate": 0.0,
+    "deal_stages": {},
+    "df": "DF-164",
+    "iso_timestamp": "2026-06-19T06:12:15.751130+00:00",
+    "leads_total": 0,
+    "mrr_pipeline_eur": 0.0,
+    "qualified_leads": 0,
+    "source": "mock",
+    "welle": "25"
+  }
+}
