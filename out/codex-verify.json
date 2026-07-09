@@ -1,0 +1,5 @@
+{
+  "verdict": "HOLLOW",
+  "reason": "Der Test laedt ein anderes df-164-engine.py-Interface und prueft generische Helper/Locks statt die df-164-Funktionen compute_metrics/build_report/write_report mit adversarialen Records und unterschiedlichen erwarteten Metriken zu verifizieren.",
+  "ts": "2026-07-08T15:08:28.655989+00:00"
+}
